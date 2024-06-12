@@ -9,7 +9,7 @@
     <title>Administrador</title>
 </head>
 <body>
-    <div id="loader"></div>
+
     <header>
 
        
